@@ -1,0 +1,8 @@
+{
+  "h1": "言語スイッチャー",
+  "change-locale": "{{changeTo}}へ切替",
+  "language": {
+    "japanese": "日本語",
+    "chinese": "中国語"
+  }
+}
